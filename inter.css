@@ -1,0 +1,226 @@
+.inter-navbar-text{
+    color:white !important;
+    font-size:20px !important;
+}
+
+.inter-navbar-image{
+    height:45px;
+    width:40px;
+}
+
+.inter-banner-section{
+    background-image: url("https://img.freepik.com/premium-vector/cinema-movie-concept_1302-12571.jpg");
+    background-size:cover;
+    height:100vh;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+.inter-banner-heading{
+    color:white;
+    font-weight:bold;
+    font-size:40px;
+}
+
+.inter-banner-description {
+    color:white;
+    font-size:20px;
+}
+
+.inter-banner-button {
+    border-width:0px;
+    border-radius:15px;
+    background-color:rgb(66, 53, 53);
+    color:white;
+    height:50px;
+    width:135px;
+}
+
+.inter-banner-text {
+    width:40%;
+}
+
+.bottom-section-container{
+    background-color:rgb(255, 5, 5);
+    background-size:cover;
+}
+
+.bottom-section-heading{
+    color:white;
+    font-size:40px;
+    font-weight:bold;
+}
+
+.bottom-section-card-container {
+    background-color:black;
+    border-radius:25px;
+}
+
+.bottom-section-card-title {
+    color:white;
+    font-size:30px;
+    font-style:"Roboto";
+    font-weight:bold;
+
+}
+
+.bottom-section-image {
+    width:160px;
+    height:140px;
+}
+
+.bottom-section-button {
+    color:white;
+    background-color:red;
+    font-size:25px;
+    padding:5px;
+    border-width:0px;
+    border-radius:15px;
+    width:160px;
+}
+
+.bottom-section-card-description {
+    color:white;
+    font-size:15px;
+} 
+.bottom-section-card-list{
+    margin: auto !important;
+}
+
+.more-movies-section {
+    background-color:black;
+    padding:10px;
+}
+.more-movies-card{
+    padding:20px;
+}
+.more-movies-card-image {
+    width:100%;
+    border-radius:30px;
+}
+
+.more-movies-section-title {
+    color:white;
+    font-weight:bold;
+    padding-left:10px;
+    padding-top:10px;
+}
+
+.more-movies-card-title{
+    font-size:30px;
+    color:white;
+
+}
+
+.more-movies-card-link {
+    color:red;
+    text-decoration:none;
+}
+.about-us-section {
+    background-color:red;
+}
+
+.about-us-image{
+    width:100%;
+    border-radius:25px;
+}
+
+.about-us-title{
+    color:white;
+    font-weight:bold;
+}
+
+.about-us-description{
+    color:white;
+    font-size:20px;
+}
+
+.payment-section{
+    background-color:black;
+}
+
+.payment-section-image {
+    padding-top:10px;
+    width:100%;
+    border-radius:25px;
+}
+
+.payment-section-title {
+    color:white;
+    font-weight:bold;
+    padding-top:10px;
+    padding-left:5px;
+}
+
+.payment-section-description {
+    color:white;
+    font-size:20px;
+}
+
+.psd-title {
+    font-weight:bold;
+    font-size:25px;
+}
+
+.span1 {
+    text-decoration : line-through;
+}
+
+.thanks-section {
+    padding:20px;
+}
+.thanks-section-body {
+    background-image:radial-gradient(#eddc9d,#fac402);
+}
+.thanks-section-title {
+    font-size:40px;
+    padding-top:10px;
+    padding-left:10px;
+    font-weight:bold;
+}
+.thanks-section-description {
+    font-size:20px;
+    padding-left:10px;
+}
+.thanks-section-image {
+    width:100%;
+    border-radius: 5px;
+}
+
+.thanks-section-button {
+    background-color:#ff9f05;
+    border-width:0px;
+    border-radius:15px;
+    margin:10px;
+    color:white;
+    height:50px;
+    width:135px;
+}
+
+.footer-section {
+    background-color:black;
+    padding:40px;
+}
+
+.follow-us-icons {
+    font-size:20px;
+    color:#b7b6cc;
+    background-color:#e38a78;
+    width:40px;
+    height:40px;
+    border-radius:50px;
+    padding-left:10px;
+    padding-top:3px;
+    margin-right:5px;
+}
+
+.follow-us-title {
+    font-size:40px;
+    color:#b7b6cc;
+    text-align:center;
+}
+
+.follow-us-address {
+    color:#b7b6cc;
+    font-size:20px;
+    text-align: center;
+}
